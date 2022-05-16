@@ -1,0 +1,14 @@
+body{
+    font-family:patrick hand;
+    text-align:center;
+    background-color: pink;
+    color:white;
+};
+button{
+    color: rgb(198, 138, 148);
+}
+#camera,#result{
+    border: 2px dashed black;
+    width:350px;
+    height: 300px;
+}
